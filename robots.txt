@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hidurmuhammad.github.io/Malayalam-News-Live-Updates-App-Web/sitemap.xml
